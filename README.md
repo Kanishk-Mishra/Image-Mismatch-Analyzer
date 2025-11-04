@@ -1,4 +1,4 @@
-# 🧠 AI-Based Mismatch Analyzer (Car's Dashboard Image Validation)
+# 🤖 AI-Based Mismatch Analyzer (Car's Dashboard Image Validation)
 
 ## 📘 Problem Statement
 In the automotive industry, validating dashboard and infotainment display images for multiple vehicle variants is crucial. Each test cycle generates a **Global Test Report** containing thousands of image comparisons between the *Reference (Expected)* and *To-Check (Actual)* images.  
@@ -105,7 +105,7 @@ Some dependencies are **not available on PyPI** and must be cloned manually.
 
 ### 1. Clone the Repository
 ```bash
-git https://github.com/Kanishk-Mishra/Image-Mismatch-Analyzer
+git https://github.com/Kanishk-Mishra/Image-Mismatch-Analyzer.git
 cd Image-Mismatch-Analyzer
 ```
 
