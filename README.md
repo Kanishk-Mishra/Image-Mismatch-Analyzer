@@ -164,6 +164,6 @@ Open `main.ipynb` in Jupyter Notebook or VSCode and run all cells.
 
 ## 👨‍💻 Author
 **Kanishk Mishra**  
-AI Intern @ RNTBCI  
+*Former* AI Intern @ RNTBCI  
 Focused on visual difference detection and semantic validation in automotive test automation.
 
