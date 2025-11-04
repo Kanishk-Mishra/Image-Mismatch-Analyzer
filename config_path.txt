@@ -1,0 +1,6 @@
+variant = C1AREG_10i_Regression_Tests_globalTestReport
+
+report_path_template = input/{variant}/globalTestReport/globalTestReport.html
+image_dir_template = input/{variant}/globalTestReport/images
+output_dir = output
+relative_image_path_template = ../input/{variant}/globalTestReport/images
