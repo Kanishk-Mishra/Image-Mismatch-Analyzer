@@ -105,8 +105,8 @@ Some dependencies are **not available on PyPI** and must be cloned manually.
 
 ### 1. Clone the Repository
 ```bash
-git clone <your_repo_url>
-cd <your_repo_name>
+git https://github.com/Kanishk-Mishra/Image-Mismatch-Analyzer
+cd Image-Mismatch-Analyzer
 ```
 
 ### 2. Install Dependencies
